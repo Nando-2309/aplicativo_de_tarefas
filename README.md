@@ -20,6 +20,7 @@ Liste as principais funcionalidades do seu projeto.
 Usei a linguagem Dart e o framerwork flutter
 
 
+
 ## Como Executar
 
 Passo a passo de como executar o projeto localmente.
